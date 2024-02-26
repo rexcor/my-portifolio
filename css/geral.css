@@ -235,5 +235,6 @@ svg:hover #github {
 
   .content {
     max-width: 350px;
+    justify-content: center;
   }
 }
